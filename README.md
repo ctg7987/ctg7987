@@ -37,9 +37,10 @@ I am a senior computer engineering student at NYU Abu Dhabi with a strong intere
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B3263?style=for-the-badge&logo=llama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-0056A6?style=for-the-badge&logo=meta&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-0FA36B?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools & Platforms**  
