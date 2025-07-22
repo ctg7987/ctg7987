@@ -1,7 +1,7 @@
 # 👋 Calvin Gutsa
 
 ## 🧠 About Me
-I am a computer engineering student at NYU Abu Dhabi with a strong interest in **emerging technologies** that bridge innovation and human-centered design. My work spans **software development**, **embedded systems**, and **behavioral research** — always with a focus on building systems that are both technically sound and socially meaningful.
+I am a computer engineering student at NYU Abu Dhabi with a strong interest in **emerging technologies** that bridge innovation and human-centered design. My work spans **software development**, **embedded systems**, and **behavioral research**, always with a focus on building systems that are both technically sound and socially meaningful.
 
 ---
 
