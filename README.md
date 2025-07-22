@@ -106,7 +106,3 @@ I am a computer engineering student at NYU Abu Dhabi with a strong interest in *
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ctg7987&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ctg7987&theme=flat&column=7" alt="GitHub Trophies" />
-</p>
