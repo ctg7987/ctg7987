@@ -1,4 +1,15 @@
-# 👋 Calvin Gutsa
+<h1 align="center">👋 Calvin Gutsa</h1>
+
+<h3 align="center">
+Computer Engineering @ NYU Abu Dhabi  
+• Builder of Human-Centered Tech • Passionate About Emerging Technologies
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ctg7987&label=Profile%20views&color=0e75b6&style=flat" alt="ctg7987" />
+</p>
+
+---
 
 ## 🧠 About Me
 I am a computer engineering student at NYU Abu Dhabi with a strong interest in **emerging technologies** that bridge innovation and human-centered design. My work spans **software development**, **embedded systems**, and **AI/ML research**, always with a focus on building systems that are both technically sound and socially meaningful.
@@ -21,7 +32,7 @@ I am a computer engineering student at NYU Abu Dhabi with a strong interest in *
 
 ## 🛠 Tech Stack
 
-**Languages**  
+### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -33,7 +44,7 @@ I am a computer engineering student at NYU Abu Dhabi with a strong interest in *
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-00427E?style=for-the-badge&logoColor=white)
 
-**Frameworks & Libraries**  
+### Frameworks & Libraries  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -43,7 +54,7 @@ I am a computer engineering student at NYU Abu Dhabi with a strong interest in *
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-0FA36B?style=for-the-badge&logo=python&logoColor=white)
 
-**Tools & Platforms**  
+### Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -79,3 +90,23 @@ I am a computer engineering student at NYU Abu Dhabi with a strong interest in *
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvin-gutsa-8a70b3230/)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ctg7987)  
 [![Email](https://img.shields.io/badge/Email-ctg7987@nyu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctg7987@nyu.edu)
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ctg7987&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctg7987&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=ctg7987&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ctg7987&theme=flat&column=7" alt="GitHub Trophies" />
+</p>
