@@ -26,7 +26,6 @@ I am a computer engineering student at NYU Abu Dhabi with a strong interest in *
 ## 📁 Selected Projects
 - **USSD Food Delivery Platform** – Offline food ordering tool with EcoCash API integration *(C++)*  
 - **Multifunctional Safety Device for Toddlers** – Embedded fall/sleep detection system *(Arduino + ML)*  
-- **Novelty & Mood Research** – Studying how new experiences affect memory and mental health  
 
 ---
 
