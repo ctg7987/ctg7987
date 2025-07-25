@@ -94,13 +94,5 @@ I am a computer engineering student at NYU Abu Dhabi with a strong interest in *
 ## 📊 GitHub Stats & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ctg7987&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctg7987&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com?user=ctg7987&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
