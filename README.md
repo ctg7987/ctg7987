@@ -1,4 +1,4 @@
-<h1 align="center">👋 Calvin Gutsa</h1>
+<h1 align="center">👋 Hi, I'm Calvin Gutsa</h1>
 
 <h3 align="center">
 Computer Engineering @ NYU Abu Dhabi  
@@ -12,20 +12,19 @@ Computer Engineering @ NYU Abu Dhabi
 ---
 
 ## 🧠 About Me
-I am a computer engineering student at NYU Abu Dhabi with a strong interest in **emerging technologies** that bridge innovation and human-centered design. My work spans **software development**, **embedded systems**, and **AI/ML research**, always with a focus on building systems that are both technically sound and socially meaningful.
+I’m a Computer Engineering student at **NYU Abu Dhabi** passionate about building **human-centered technologies** at the intersection of **emerging tech, AI, and behavioral science**.  
+
+My projects blend **software engineering, cognitive science, and applied AI**—always with a focus on designing systems that are technically sound, accessible, and socially meaningful.
 
 ---
 
-## 🚀 What I'm Working On
-- Designing lightweight backend systems for chatbot interfaces  
-- Exploring how novelty and user behavior influence memory and decision-making  
-- Prototyping low-resource tools for accessibility in underserved communities  
+## 🚀 Featured Projects
 
----
-
-## 📁 Selected Projects
-- **USSD Food Delivery Platform** – Offline food ordering tool with EcoCash API integration *(C++)*  
-- **Multifunctional Safety Device for Toddlers** – Embedded fall/sleep detection system *(Arduino + ML)*  
+- **[AI Buddy (Hoopla)](https://github.com/ctg7987/ai-buddy)** – Emotional wellness chatbot for children using RAG + FastAPI, based on the Hoopla Method™ *(Python, FastAPI, Hugging Face)*  
+- **[Chat with Your Video Library](https://github.com/ctg7987/chat-with-your-video-library)** – Retrieval-Augmented Generation (RAG) system for video data with MongoDB + Qdrant integration *(Python, Hugging Face, Gradio)*  
+- **[OCT Imaging Research](https://github.com/ctg7987/oct-analysis)** – Biophotonics project improving OCT imaging for glucose/cell migration studies *(Python, MATLAB)*  
+- **[USSD Food Delivery Platform](https://github.com/ctg7987/ussd-food-delivery)** – Offline food ordering tool with EcoCash API integration *(C++)*  
+- **[Multifunctional Safety Device for Toddlers](https://github.com/ctg7987/toddler-safety-device)** – Embedded fall/sleep detection system *(Arduino + ML)*  
 
 ---
 
@@ -57,42 +56,4 @@ I am a computer engineering student at NYU Abu Dhabi with a strong interest in *
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-## 📜 Certifications
-- Google AI Essentials  
-- Google Data Analytics & BI Certificate  
-- AI-Powered VC Deal Sourcing *(IgniteXL)*  
-- Web3 Security & Smart Contract Analysis *(Webacy)*  
-- Market Research & Analytics *(Beats by Dre Externship)*  
-
----
-
-## 🎯 Interests
-- Emerging Technologies & System Design  
-- Human-Centered Computing  
-- Behavioral Science & Engineering  
-- Tech for Social Impact  
-
----
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvin-gutsa-8a70b3230/)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ctg7987)  
-[![Email](https://img.shields.io/badge/Email-ctg7987@nyu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctg7987@nyu.edu)
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ctg7987&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+![Node.js]()
