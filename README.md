@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Computer Engineering @ NYU Abu Dhabi  
-• Exploring AI & Intelligent Agents • Building Software that Optimizes Processes
+• Building Software that Optimizes Processes
 </h3>
 
 <p align="center">
