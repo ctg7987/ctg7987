@@ -11,14 +11,14 @@ Computer Engineering @ NYU Abu Dhabi
 
 ---
 
-## 🧠 About Me
+## About Me
 I’m a Computer Engineering student at **NYU Abu Dhabi** with a strong interest in **AI, intelligent agents, and applied software development**.  
 
 I focus on creating **AI-powered applications and process-optimizing tools**—from autonomous agents to generative AI systems—that make technology more efficient and accessible.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 - **[Autonomous Task Agent](https://github.com/ctg7987/autonomous-task-agent)** – Experimental multi-tool AI agent that autonomously executes research & planning workflows *(Python)*  
 - **[RAG Chatbot](https://github.com/ctg7987/rag-chatbot)** – Retrieval-Augmented Generation chatbot built on FastAPI & LangChain *(Python)*  
 - **[Multimodal Content Generator](https://github.com/ctg7987/multimodal-content-gen)** – AI suite for generating text + visuals for marketing and creative workflows *(TypeScript, OpenAI)*  
@@ -27,7 +27,7 @@ I focus on creating **AI-powered applications and process-optimizing tools**—f
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,7 +58,7 @@ I focus on creating **AI-powered applications and process-optimizing tools**—f
 
 ---
 
-## 📜 Certifications
+## Certifications
 - Google AI Essentials  
 - Google Data Analytics & BI Certificate  
 - AI-Powered VC Deal Sourcing *(IgniteXL)*  
@@ -67,7 +67,7 @@ I focus on creating **AI-powered applications and process-optimizing tools**—f
 
 ---
 
-## 🎯 Interests
+## Interests
 - AI Agents & Applications  
 - Generative AI & RAG Systems  
 - Process Optimization through Software  
@@ -75,14 +75,14 @@ I focus on creating **AI-powered applications and process-optimizing tools**—f
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvin-gutsa-8a70b3230/)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ctg7987)  
 [![Email](https://img.shields.io/badge/Email-ctg7987@nyu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctg7987@nyu.edu)
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ctg7987&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
