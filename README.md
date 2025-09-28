@@ -22,7 +22,7 @@ I focus on creating **AI-powered applications and process-optimizing tools**—f
 - **[Autonomous Task Agent](https://github.com/ctg7987/autonomous-task-agent)** – Experimental multi-tool AI agent that autonomously executes research & planning workflows *(Python)*  
 - **[RAG Chatbot](https://github.com/ctg7987/rag-chatbot)** – Retrieval-Augmented Generation chatbot built on FastAPI & LangChain *(Python)*  
 - **[Multimodal Content Generator](https://github.com/ctg7987/multimodal-content-gen)** – AI suite for generating text + visuals for marketing and creative workflows *(TypeScript, OpenAI)*  
-- **[USSD Food Delivery Platform]([https://github.com/ctg7987/ussd-food-delivery](https://github.com/ctg7987/food-delivery-system))** – Offline food ordering tool with EcoCash API integration *(C++)*  
+- **[USSD Food Delivery Platform](https://github.com/ctg7987/food-delivery-system)** – Offline food ordering tool with EcoCash API integration *(C++)*  
 - **[Multifunctional Safety Device for Toddlers](https://github.com/ctg7987/toddler-safety-device)** – Embedded fall/sleep detection system *(Arduino + ML)*  
 
 ---
