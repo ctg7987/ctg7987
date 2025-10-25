@@ -41,7 +41,7 @@ I focus on creating **AI-powered applications and process-optimizing tools**, fr
 ---
 
 ## Certifications
-- Google AI Essentials  
+- Google AI Essentialss  
 - Google Data Analytics & BI Certificate  
 - AI-Powered VC Deal Sourcing *(IgniteXL)*  
 - Web3 Security & Smart Contract Analysis *(Webacy)*  
