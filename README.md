@@ -12,7 +12,7 @@ Computer Engineering @ NYU Abu Dhabi
 ---
 
 ## About Me
-I’m a Computer Engineering student at NYU Abu Dhabi** with a strong interest in AI, intelligent agents, and applied software development.  
+I’m a Computer Engineering student at NYU Abu Dhabi with a strong interest in AI, intelligent agents, and applied software development.  
 
 I focus on creating AI-powered applications and process-optimizing tools, from autonomous agents to generative AI systems, that make technology more efficient and accessible.
 
