@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Computer Engineering @ NYU Abu Dhabi  
-• Building Software that Optimizes Processes
+• Building Software that is intuitive, useful, and built with intention
 </h3>
 
 <p align="center">
